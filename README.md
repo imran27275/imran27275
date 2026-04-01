@@ -16,14 +16,13 @@
 ## 🛠️ Tech Stack
 
 **Languages**
-
+Python | Dart | Java | C | SQL
 
 **Frameworks & Tools**
-
+Flutter | Firebase | REST APIs | Git | SQLite | Postman
 
 **AI & Data**
-
-
+Deep Learning | Pattern Recognition | Data Engineering
 
 ---
 
