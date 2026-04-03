@@ -68,11 +68,9 @@ imran = {
 
 <br>
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=imran27275&show_icons=true&theme=transparent&hide_border=true&title_color=aaaaaa&icon_color=aaaaaa&text_color=888888&hide=stars&cache_seconds=86400"/>
-&nbsp;&nbsp;
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imran27275&layout=compact&theme=transparent&hide_border=true&title_color=aaaaaa&text_color=888888&cache_seconds=86400"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=imran27275&show_icons=true&bg_color=0d1117&hide_border=true&title_color=aaaaaa&icon_color=aaaaaa&text_color=888888&hide=stars"/>
 
-<br><br>
+<br>
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=imran27275&theme=transparent&hide_border=true&stroke=444444&ring=aaaaaa&fire=aaaaaa&currStreakLabel=aaaaaa&sideLabels=aaaaaa&dates=666666&currStreakNum=cccccc&sideNums=cccccc"/>
 
