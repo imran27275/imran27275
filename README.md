@@ -88,6 +88,7 @@ imran = {
 | 🎓 | **Student & Parent Portal** | Academic workflow management · communication platform | `Flutter` `SQLite` |
 | 🏫 | **Teacher Management System** | End-to-end solution for managing academic operations | `Flutter` `Firebase` |
 | 🔬 | [EfficientNetV2-M](https://github.com/imran27275/EfficientNetV2-M) | Image classification · transfer learning | `PyTorch` `timm` `scikit-learn` |
+| 🔬 | [Seeding-QDArchive](https://github.com/imran27275/Seeding-QDArchive) | Data acquisition and classification | `Pandas` `matplotlib`|
 
 <br>
 
